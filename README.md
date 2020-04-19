@@ -1,9 +1,8 @@
-## Kaggle Competition
-[![](img/deep-fake-detection-challenge.png)](https://deepfakedetectionchallenge.ai/)
-[![](img/kaggle.png)](https://www.kaggle.com/c/deepfake-detection-challenge)
+## Deep Berlin AI For Good Hackathon
+[![](img/ai4good.png)](https://deep-berlin.ai/hackathon2020/)
 
 ## Train Your Model with AWS
-[![](img/aws-blog.png)](https://aws.amazon.com/blogs/machine-learning/aws-supports-the-deepfake-detection-challenge-with-competition-data-and-aws-credits/)
+
 
 ### Step 1:  Create and Activate Your AWS Account
 * https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/ 
@@ -39,7 +38,7 @@
 ```
 cd ~/SageMaker
 
-git clone https://github.com/data-science-on-aws/deep-fake-detection-challenge
+git clone https://github.com/data-science-on-aws/ai4good-hackathon.git
 ```
 
 ### Step 8:  Train a Model Using Your SageMaker Notebook Instance
@@ -48,10 +47,8 @@ git clone https://github.com/data-science-on-aws/deep-fake-detection-challenge
 * [**Sample MXNet Notebook**](mxnet/) using Distributed MXNet and SageMaker.
 * To adapt a custom training script to SageMaker, please follow [these instructions](https://sagemaker.readthedocs.io/en/stable/using_tf.html#adapting-your-local-tensorflow-script).
 
-### Step 9:  Submit Your Trained Model to Kaggle
-* [Competition Code Requirements](https://www.kaggle.com/c/deepfake-detection-challenge/overview/code-requirements)
+### Step 9:  Submit Your Trained Model
+* [Competition Code Requirements]()
 
 ## More Resources
-* [Kaggle Challenge Introduction](https://www.kaggle.com/robikscube/kaggle-deepfake-detection-introduction)
-* [Deepfake Starter Kit](https://www.kaggle.com/gpreda/deepfake-starter-kit)
-* [Competition Code Requirements](https://www.kaggle.com/c/deepfake-detection-challenge/overview/code-requirements)
+* [Deep Berlin AI For Good Hackathon 2020](https://deep-berlin.ai/hackathon2020/)
