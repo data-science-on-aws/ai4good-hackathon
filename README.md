@@ -1,4 +1,4 @@
-## Deep Berlin AI For Good Hackathon
+## Deep Berlin AI For Good Hackathon 2020
 [![](img/ai4good.png)](https://deep-berlin.ai/hackathon2020/)
 
 ## Train Your Model with AWS
