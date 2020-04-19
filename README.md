@@ -76,7 +76,7 @@ Note: You can also connect a Private GitHub or GitLab repo, just follow [these](
 If you want to clone another Git repo: 
 
 * Open a New Terminal
-![](img/new-terminal.png)()
+![](img/new-terminal.png)
 
 * Clone the Git repo using the following command (we are using this repo as an example again):
 
@@ -92,8 +92,7 @@ git clone https://github.com/data-science-on-aws/ai4good-hackathon.git
 * [**Sample MXNet Notebook**](mxnet/) using Distributed MXNet and SageMaker.
 * To adapt a custom training script to SageMaker, please follow [these instructions](https://sagemaker.readthedocs.io/en/stable/using_tf.html#adapting-your-local-tensorflow-script).
 
-### Step 9:  Submit Your Trained Model
-* [Competition Code Requirements]()
+
 
 ## More Resources
 * [Deep Berlin AI For Good Hackathon 2020](https://deep-berlin.ai/hackathon2020/)
