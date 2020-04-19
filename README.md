@@ -42,7 +42,7 @@ Ideally, you set up your AWS account 3-4 days before the hackathon and increase 
 
 ![](img/sagemaker03.png)
 
-   * Select “Create a New IAM Role”
+* Select “Create a New IAM Role”
    * Select `Specific S3 Bucket` and type in the name of the S3 bucket you created earlier
    * Click `Create role`
 
