@@ -52,3 +52,4 @@ git clone https://github.com/data-science-on-aws/ai4good-hackathon.git
 
 ## More Resources
 * [Deep Berlin AI For Good Hackathon 2020](https://deep-berlin.ai/hackathon2020/)
+* [Official Hackathon Github Repo with Datasets](https://github.com/deepberlin1/aiforgood2020)
