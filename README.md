@@ -42,20 +42,20 @@ Ideally, you set up your AWS account 3-4 days before the hackathon and increase 
 
 ![](img/sagemaker03.png)
 
-    * Select “Create a New IAM Role”
-    * Select `Specific S3 Bucket` and type in the name of the S3 bucket you created earlier
-    * Click `Create role`
+   * Select “Create a New IAM Role”
+   * Select `Specific S3 Bucket` and type in the name of the S3 bucket you created earlier
+   * Click `Create role`
 
 ![](img/sagemaker05.png)
 
-    * In `Git repositories` you can choose to clone a public Git repo to this notebook instance
-    * Just provide the public Git repo URL
+   * In `Git repositories` you can choose to clone a public Git repo to this notebook instance
+   * Just provide the public Git repo URL
 
 ![](img/sagemaker06.png)
 
 ![](img/sagemaker07.png)
 
-    * You can leave everything else to default, and hit `Create notebook instance`
+   * You can leave everything else to default, and hit `Create notebook instance`
 
 * Your notebook instance is now being created (this can take 2-3min)
 
