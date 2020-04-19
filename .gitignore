@@ -1,2 +1,5 @@
+model/
+data/
+.ipynb_checkpoints/
 .DS_Store
 src/.DS_Store
