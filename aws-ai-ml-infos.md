@@ -31,4 +31,4 @@ Sagemaker has built-in algorithms for [object detection](https://docs.aws.amazon
 [Textract](https://docs.aws.amazon.com/textract/latest/dg/what-is.html) enables high-accuracy text extraction/OCR from images (PDF, JPEG etc)
  
 # Partnerships: 
-[AWS Data Exchange](https://aws.amazon.com/data-exchange/) provides startups a way to monetize the expensive datasets that need to be created for visionuse cases.
+[AWS Data Exchange](https://aws.amazon.com/data-exchange/) provides startups a way to monetize the expensive datasets that need to be created for vision use cases.
