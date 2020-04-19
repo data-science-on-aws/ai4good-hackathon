@@ -11,10 +11,10 @@ The [Sagemaker Examples Repository](https://github.com/awslabs/amazon-sagemaker-
 * [Using Sagemaker Debugger with a Custom Pytorch Container](https://github.com/awslabs/amazon-sagemaker-examples/blob/master/sagemaker-debugger/pytorch_custom_container/pytorch_byoc_smdebug.ipynb)
  
 More links:
-[Hyperparameter Tuning](https://docs.aws.amazon.com/sagemaker/latest/dg/automatic-model-tuning-ex.html) – Search for optimal parameter settings (in parallel)
-[Sagemaker Debugger](https://docs.aws.amazon.com/sagemaker/latest/dg/train-debugger.html) – Detect issues, e.g., with vanishing gradients
-[Experiments](https://github.com/aws/sagemaker-experiments) — to track different training/tuning jobs
-[Managed Spot Training](https://docs.aws.amazon.com/sagemaker/latest/dg/model-managed-spot-training.html) – to save costs during training
+* [Hyperparameter Tuning](https://docs.aws.amazon.com/sagemaker/latest/dg/automatic-model-tuning-ex.html) – Search for optimal parameter settings (in parallel)
+* [Sagemaker Debugger](https://docs.aws.amazon.com/sagemaker/latest/dg/train-debugger.html) – Detect issues, e.g., with vanishing gradients
+* [Experiments](https://github.com/aws/sagemaker-experiments) — to track different training/tuning jobs
+* [Managed Spot Training](https://docs.aws.amazon.com/sagemaker/latest/dg/model-managed-spot-training.html) – to save costs during training
  
 # Vision Stack 
  
