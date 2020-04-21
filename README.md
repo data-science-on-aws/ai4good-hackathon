@@ -82,7 +82,6 @@ If you want to clone another Git repo:
 
 ```
 cd ~/SageMaker
-
 git clone https://github.com/data-science-on-aws/ai4good-hackathon.git
 ```
 
